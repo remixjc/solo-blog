@@ -10,8 +10,8 @@ Hack Jc
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://60.205.225.145:8080/my-github-repos)
-* [Linux CentOS 通过Docker 部署安装solo博客（非nginx版本）](http://60.205.225.145:8080/articles/2019/11/17/1573982868351.html)
+* [我在 GitHub 上的开源项目](http://www.remixjc.cn/my-github-repos)
+* [Linux CentOS 通过Docker 部署安装solo博客（非nginx版本）](http://www.remixjc.cn/articles/2019/11/17/1573982868351.html)
 
 
 
