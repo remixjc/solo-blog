@@ -10,6 +10,9 @@ Hack Jc
 
 ### 最新
 
+* [macOS 10.15 不能打开软件提示无法打开“app”，因为Apple无法检查其是否包含恶意软件。“移到废纸篓”无法打开的解决方法！](https://www.remixjc.cn/articles/2019/12/05/1575551676610.html)
+* [JetBrains全系列软件激活教程激活码以及JetBrains系列软件汉化包](https://www.remixjc.cn/articles/2019/12/05/1575549868694.html)
+* [关于JWT写登录授权接口的分析](https://www.remixjc.cn/articles/2019/12/05/1575510382859.html)
 * [春节出游计划！](https://www.remixjc.cn/articles/2019/12/03/1575356325211.html)
 * [细说阿里云(Aliyun)的建站过程](https://www.remixjc.cn/articles/2019/12/03/1575355261417.html)
 * [我在 GitHub 上的开源项目](https://www.remixjc.cn/my-github-repos)
