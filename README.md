@@ -1,4 +1,4 @@
-<p align="center"><img alt="Hack Jc" src="https://remixjc.oss-cn-beijing.aliyuncs.com/headpic/1-1Z129112551-50.jpg?Expires=1575358524&OSSAccessKeyId=TMP.hjtYrhAuSfufqahwJFzmYmyiwqSGrqnaZNp2ofdrnetRsD9thCtBAN5Axn8giX46xJdr1evsCktAvC5r6jiHc5DdUMR9upwMx87b5MUYRGR76uyj9GtB3fYBTjZre1.tmp&Signature=ssaCw54smRa1GF2Ru4SYwrqrdow%3D"></p><h2 align="center">
+<p align="center"><img alt="Hack Jc" src=" https://remixjc.oss-cn-beijing.aliyuncs.com/headpic/1-1Z129112551-50.jpg"></p><h2 align="center">
 Hack Jc
 </h2>
 
@@ -10,6 +10,8 @@ Hack Jc
 
 ### 最新
 
+* [通过 docker 搭建自用的 gitlab 服务](https://www.remixjc.cn/articles/2019/12/09/1575855216596.html)
+* [CentOS 完全卸载GitLab](https://www.remixjc.cn/articles/2019/12/07/1575691551224.html)
 * [CentOS 7 下 GitLab安装部署教程](https://www.remixjc.cn/articles/2019/12/06/1575626931528.html)
 * [macOS 10.15 不能打开软件提示无法打开“app”，因为Apple无法检查其是否包含恶意软件。“移到废纸篓”无法打开的解决方法！](https://www.remixjc.cn/articles/2019/12/05/1575551676610.html)
 * [JetBrains全系列软件激活教程激活码以及JetBrains系列软件汉化包 Idea激活](https://www.remixjc.cn/articles/2019/12/05/1575549868694.html)
