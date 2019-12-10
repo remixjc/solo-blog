@@ -1,15 +1,18 @@
-<p align="center"><img alt="Hack Jc" src=" https://remixjc.oss-cn-beijing.aliyuncs.com/headpic/1-1Z129112551-50.jpg"></p><h2 align="center">
-Hack Jc
+<p align="center"><img alt="Hack J" src=" https://remixjc.oss-cn-beijing.aliyuncs.com/headpic/1-1Z129112551-50.jpg"></p><h2 align="center">
+Hack J
 </h2>
 
-<h4 align="center">记录精彩人生</h4>
-<p align="center"><a title="Hack Jc" target="_blank" href="https://github.com/remixjc/solo-blog"><img src="https://img.shields.io/github/last-commit/remixjc/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">不平凡的人生</h4>
+<p align="center"><a title="Hack J" target="_blank" href="https://github.com/remixjc/solo-blog"><img src="https://img.shields.io/github/last-commit/remixjc/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/remixjc/solo-blog"><img src="https://img.shields.io/github/repo-size/remixjc/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/remixjc/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [Docker数据库备份](https://www.remixjc.cn/articles/2019/12/10/1575960127616.html)
+* [基于JWT规范实现的认证微服务](https://www.remixjc.cn/articles/2019/12/10/1575947648902.html)
+* [IOS13.3 Beta4更新](https://www.remixjc.cn/articles/2019/12/09/1575891976367.html)
 * [通过 docker 搭建自用的 gitlab 服务](https://www.remixjc.cn/articles/2019/12/09/1575855216596.html)
 * [CentOS 完全卸载GitLab](https://www.remixjc.cn/articles/2019/12/07/1575691551224.html)
 * [CentOS 7 下 GitLab安装部署教程](https://www.remixjc.cn/articles/2019/12/06/1575626931528.html)
